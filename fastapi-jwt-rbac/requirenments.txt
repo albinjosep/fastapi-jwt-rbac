@@ -1,0 +1,7 @@
+fastapi==0.95.0
+uvicorn==0.21.1
+mongoengine==0.24.1
+python-dotenv==0.21.1
+passlib[bcrypt]==1.7.4
+pydantic==1.10.2
+python-jose==3.3.0
